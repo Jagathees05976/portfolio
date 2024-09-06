@@ -16,19 +16,21 @@ function About() {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am a experienced Full stack developer kjbuyvtyftrxdrezewz ezezwzewxertyftytrdxerxerxrexretry t</p>
-                    <p>My passion is to be become a hacker</p>
+                    <p>I am a Full stack developer with solid foundation in both front-end and back-end technologies</p>
+                    <p>My passion is to solve problems and create impactful software solutions</p>
                 </div>
             
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"70%"}} /></div>
-                    <div className="about-skill"><p>React JS</p><hr style={{width:"50%"}} /></div>
+                    <div className="about-skill"><p>React JS</p><hr style={{width:"65%"}} /></div>
                     <div className="about-skill"><p>Javascript</p><hr style={{width:"60%"}} /></div>
-                    <div className="about-skill"><p>Sql</p><hr style={{width:"20%"}} /></div>
+                    <div className="about-skill"><p>Sql</p><hr style={{width:"70%"}} /></div>
+                    <div className="about-skill"><p>Mongodb</p><hr style={{width:"50%"}} /></div>
+                    <div className="about-skill"><p>C</p><hr style={{width:"70%"}} /></div>
                 </div> 
             </div>     
         </div>
-
+{/*         
         <div className="about-achievements">
             <div className="about-achievement">
                 <h1>1+</h1>
@@ -44,7 +46,7 @@ function About() {
                 <h1>1+</h1>
                 <p>Happy clients</p>
             </div>
-        </div>
+        </div> */}
     </div>
      );
 }

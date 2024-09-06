@@ -15,7 +15,7 @@ const App = () => {
       <Hero />
       <About />
       
-      <MyWork/>
+      {/* <MyWork/> */}
       <Contact/>
       
     </div>

@@ -39,7 +39,7 @@ function Contact() {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>I am a full stack developer</p>
+                <p>I am a Full Stack developer</p>
                 <div className="contact-details">
                     <div className="contact-detail">
                         <img src={mail_icon} alt="" /> <p>jagatheeskandhasamy@gmail.com</p>
