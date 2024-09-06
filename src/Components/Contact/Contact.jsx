@@ -39,16 +39,16 @@ function Contact() {
         <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>oijfeowpffj eifowof fw ofjowfjogwohoi wefhoier ojoefj</p>
+                <p>I am a full stack developer</p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail_icon} alt="" /> <p>jaga@gmail.com</p>
+                        <img src={mail_icon} alt="" /> <p>jagatheeskandhasamy@gmail.com</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={call_icon} alt="" /> <p>+91849393</p>
+                        <img src={call_icon} alt="" /> <p>+91 9500872831</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={location_icon} alt="" /> <p>riurfuirnv</p>
+                        <img src={location_icon} alt="" /> <p>74, Puliyampatti, Dharapuram(tk), Tiruppur(dt)</p>
                     </div>
                 </div>
             </div>
