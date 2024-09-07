@@ -48,7 +48,7 @@ function Contact() {
                         <img src={call_icon} alt="" /> <p>+91 9500872831</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={location_icon} alt="" /> <p>74, Puliyampatti, Dharapuram(tk), Tiruppur(dt)</p>
+                        <img src={location_icon} alt="" /> <p>74, Puliyampatti, Dharapuram, Tiruppur(dt)</p>
                     </div>
                 </div>
             </div>
