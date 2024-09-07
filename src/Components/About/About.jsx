@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css'
-import profile from '../../assets/profile.jpg'
+import profile from '../../assets/coder-c.jpg'
 import theme from '../../assets/theme.svg'
 
 function About() {
@@ -16,8 +16,8 @@ function About() {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am a Full stack developer with solid foundation in both front-end and back-end technologies</p>
-                    <p>My passion is to solve problems and create impactful software solutions</p>
+                    <p>I am a Full stack developer with solid foundation in both front-end and back-end technologies.</p>
+                    <p>My passion is to solve problems and create impactful software solutions.</p>
                 </div>
             
                 <div className="about-skills">
