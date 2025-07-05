@@ -5,6 +5,7 @@ import AnchorLink from "react-anchor-link-smooth-scroll";
 import res from '../../assets/r.pdf'
 
 
+
 const Hero = () => {
     return (
         <div id="home" className="hero">

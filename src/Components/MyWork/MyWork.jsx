@@ -14,7 +14,7 @@ function MyWork() {
 
             <div className="mywork-container">
                 {mywork_data.map((work,index)=>{
-                    return <img key={index} src={work.w_img} />
+                    return <a href={work.w_link} target='_blank'><img key={index} src={work.w_img} onClick={work.w_link} /></a>
                 })}
             </div>  
             <div className="mywork-showmore">
